@@ -5,7 +5,7 @@ network (DNN) that functions as part of an end-to-end automatic speech recogniti
 
 **I have obtained the following image from one of the project pages on Udacity Website**
 
-![](pipeline.png)
+![](images/pipeline.png)
 
 The following section is all taken as it is from the project description made by Udacity.
 
