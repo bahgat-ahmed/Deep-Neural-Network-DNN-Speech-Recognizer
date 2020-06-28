@@ -1,4 +1,4 @@
-# Deep Neural Network(DNN) Speech Recognizer
+# Deep Neural Network (DNN) Speech Recognizer
 
 This is the project I have built in the third course of the NLP Nanodegree. The course name is **Commincating with Natural Language**. In this project I have built a deep neural 
 network (DNN) that functions as part of an end-to-end automatic speech recognition pipeline.
