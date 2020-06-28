@@ -3,8 +3,6 @@
 This is the project I have built in the third course of the NLP Nanodegree. The course name is **Commincating with Natural Language**. In this project I have built a deep neural 
 network (DNN) that functions as part of an end-to-end automatic speech recognition pipeline.
 
-**I have obtained the following image from one of the project pages on Udacity Website**
-
 ![](images/pipeline.png)
 
 The following section is all taken as it is from the project description made by Udacity.
